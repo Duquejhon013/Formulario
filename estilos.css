@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario{
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Reem Kufi Fun', sans-serif;
+    font-family: 'Reem Kufi Ink', sans-serif;
+    text-align: center;
+    background-color: #F3464a;
+    height: 50vh;
+}
+.lottie{
+    background-color: #041e4d;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
